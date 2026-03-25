@@ -37,8 +37,8 @@ System.Text.Json – работа с JSON (сериализация/десери
 # Запуск
 Клонировать репозиторий:
 
-bash
 git clone https://github.com/twixkox/GeniyIdiot.git
+
 Открыть GeniyIdiot.sln в Visual Studio.
 
 Выбрать нужный проект (ConsoleApp или WinFormsApp) и запустить (F5).
